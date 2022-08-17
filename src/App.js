@@ -22,11 +22,11 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route exact path='/' element={<Home />} />
-        <Route path='/About' element={<About />} />
-        <Route path='/Services' element={<Services />} />
-        <Route path='/Blog' element={<Blog />} />
-        <Route path='/contact' element={<Contact />} />
+        <Route exact path='/drmridul/' element={<Home />} />
+        <Route path='/drmridul/About' element={<About />} />
+        <Route path='/drmridul/Services' element={<Services />} />
+        <Route path='/drmridul/Blog' element={<Blog />} />
+        <Route path='/drmridul/contact' element={<Contact />} />
       </Routes>
       <Footer />
     </>
