@@ -1,9 +1,11 @@
 {
   "name": "drmridul_web",
+  "homepage": "https://Princeguptadesigner.github.io/drmridul",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.1.0",
+    "gh-pages": "^4.0.0",
     "jquery": "^3.2.1",
     "magnific-popup": "^1.1.0",
     "react": "^18.2.0",
@@ -16,6 +18,8 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
