@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78add2976bd8d982892709bab7d6da92",
+    "revision": "4eb10295898470c76d3c634b27cadd36",
     "url": "/drmridul/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drmridul/static/css/2.8a96858b.chunk.css"
   },
   {
-    "revision": "2b0deaa11a74bb8dd23a",
-    "url": "/drmridul/static/css/main.19088eed.chunk.css"
+    "revision": "74bb7a2e9897fa4ab942",
+    "url": "/drmridul/static/css/main.9a032ef1.chunk.css"
   },
   {
     "revision": "71e668ac22f48acbda8d",
     "url": "/drmridul/static/js/2.b05691ec.chunk.js"
   },
   {
-    "revision": "2b0deaa11a74bb8dd23a",
-    "url": "/drmridul/static/js/main.af8cd58c.chunk.js"
+    "revision": "74bb7a2e9897fa4ab942",
+    "url": "/drmridul/static/js/main.3b305086.chunk.js"
   },
   {
     "revision": "e8bef8bfa794726d3853",
