@@ -17,6 +17,6 @@ jQuery(function ($) {
     fixedContentPos: false
   });
 
-
+  jQuery(".mean-menu").meanmenu({ meanScreenWidth: "991" });
 
 });
