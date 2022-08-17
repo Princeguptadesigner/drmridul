@@ -7,9 +7,11 @@ import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.bundle.js';
 import './icofont.min.css';
-import './index.css';
 import './mobilemenu.css';
+import './index.css';
 import './responsive.css';
+
+
 import Header from './Header';
 import Home from './Home';
 import Footer from './Footer';
