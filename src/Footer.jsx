@@ -13,17 +13,15 @@ const Footer = () => {
                   <ul>
                     <li>
                       <i className="icofont-ui-message"></i>
-                      <a href="mailto:info@medisev.com">info@medisev.com</a>
-                      <a href="mailto:hello@medisev.com">hello@medisev.com</a>
+                      <a href="mailto:mriduldas83@gmail.com">mriduldas83@gmail.com</a>
                     </li>
                     <li>
                       <i className="icofont-stock-mobile"></i>
-                      <a href="tel:+07554332322">Call: +07 554 332 322</a>
-                      <a href="tel:+236256256365">Call: +236 256 256 365</a>
+                      <a href="tel:+07554332322">Call: +91 88744 47836</a>
                     </li>
                     <li>
                       <i className="icofont-location-pin"></i>
-                      210-27 Quadra, Market Street,<br /> Victoria Canada
+                      Narayana Super Speciality Hospital, Gurugram, Haryana
                     </li>
                   </ul>
                 </div>
