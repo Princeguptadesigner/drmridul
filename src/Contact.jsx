@@ -29,7 +29,7 @@ const Contact = () => {
                     <div className="location-item">
                         <i className="icofont-location-pin"></i>
                         <h3>Location</h3>
-                        <p>2108-267 Road Quadra,Toronto, Victiria Canada</p>
+                        <p>Narayana Super Speciality Hospital, Gurugram, Haryana</p>
                     </div>
                 </div>
                 <div className="col-sm-6 col-lg-4">
@@ -37,8 +37,8 @@ const Contact = () => {
                         <i className="icofont-ui-message"></i>
                         <h3>Email</h3>
                         <ul>
-                            <li>hello@medsev.com</li>
-                            <li>emailexample@name.com</li>
+                            <li>mriduldas83@gmail.com</li>
+                            <li>mriduldas83@gmail.com</li>
                         </ul>
                     </div>
                 </div>
@@ -47,8 +47,8 @@ const Contact = () => {
                         <i className="icofont-ui-call"></i>
                         <h3>Phone</h3>
                         <ul>
-                            <li>+07 5554 3332 322</li>
-                            <li>+07 5554 3332 322</li>
+                            <li>+91 88744 47836</li>
+                            <li>+91 88744 47836</li>
                         </ul>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ const Contact = () => {
                                 <i className="icofont-ui-call"></i>
                             </div>
                             <h3>Emergency Call</h3>
-                            <p>+07 554 332 322</p>
+                            <p>+91 88744 47836</p>
                         </div>
                     </div>
                 </div>
