@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drmridul/static/css/main.86f890ff.chunk.css",
+    "main.js": "/drmridul/static/js/main.c9aba248.chunk.js",
+    "main.js.map": "/drmridul/static/js/main.c9aba248.chunk.js.map",
+    "runtime~main.js": "/drmridul/static/js/runtime~main.5fda216c.js",
+    "runtime~main.js.map": "/drmridul/static/js/runtime~main.5fda216c.js.map",
+    "static/css/2.8a96858b.chunk.css": "/drmridul/static/css/2.8a96858b.chunk.css",
+    "static/js/2.a58308ec.chunk.js": "/drmridul/static/js/2.a58308ec.chunk.js",
+    "static/js/2.a58308ec.chunk.js.map": "/drmridul/static/js/2.a58308ec.chunk.js.map",
+    "index.html": "/drmridul/index.html",
+    "precache-manifest.82df32019312962d27c47b13c4fed177.js": "/drmridul/precache-manifest.82df32019312962d27c47b13c4fed177.js",
+    "service-worker.js": "/drmridul/service-worker.js",
+    "static/css/2.8a96858b.chunk.css.map": "/drmridul/static/css/2.8a96858b.chunk.css.map",
+    "static/css/main.86f890ff.chunk.css.map": "/drmridul/static/css/main.86f890ff.chunk.css.map",
+    "static/media/6.jpg": "/drmridul/static/media/6.15838699.jpg",
+    "static/media/index.css": "/drmridul/static/media/video-bg.740de672.jpg",
+    "static/media/dr-mridul-chandra-das.jpg": "/drmridul/static/media/dr-mridul-chandra-das.25e7d4a0.jpg",
+    "static/media/icofont.min.css": "/drmridul/static/media/icofont.f6ab04ae.woff",
+    "static/media/intro-bg.png": "/drmridul/static/media/intro-bg.f5e6f0a2.png",
+    "static/media/slider-01.png": "/drmridul/static/media/slider-01.5e022cac.png",
+    "static/media/slider-02.png": "/drmridul/static/media/slider-02.9f8ae31f.png",
+    "static/media/slider-03.png": "/drmridul/static/media/slider-03.c535d2a2.png"
+  }
+}
