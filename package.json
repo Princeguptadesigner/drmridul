@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.2.1",
+    "magnific-popup": "^1.1.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0-beta.1",
     "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-router-dom": "^6.3.0",
+    "react-script-tag": "^1.1.2",
     "react-scripts": "3.1.1"
   },
   "scripts": {
@@ -27,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "expose-loader": "^4.0.0"
   }
 }
