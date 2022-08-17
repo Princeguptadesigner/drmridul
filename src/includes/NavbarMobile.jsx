@@ -9,24 +9,24 @@ const NavbarMobile = () => {
           <nav className="mean-nav">
             <ul className="navbar-nav" style={{ display: 'none' }}>
               <li className="nav-item">
-                <NavLink to="/" className="nav-link active">Home</NavLink>
+                <NavLink to="/drmridul/" className="nav-link active">Home</NavLink>
               </li>
               <li className="nav-item">
-                <NavLink to="/about" className="nav-link">About</NavLink>
+                <NavLink to="/drmridul/about" className="nav-link">About</NavLink>
               </li>
               <li className="nav-item">
-                <NavLink to="/services" className="nav-link">Services</NavLink>
+                <NavLink to="/drmridul/services" className="nav-link">Services</NavLink>
               </li>
               <li className="nav-item">
-                <NavLink to="/blog" className="nav-link">Blog</NavLink>
+                <NavLink to="/drmridul/blog" className="nav-link">Blog</NavLink>
               </li>
               <li className="nav-item mean-last">
-                <NavLink to="/contact" className="nav-link">Contact Us</NavLink>
+                <NavLink to="/drmridul/contact" className="nav-link">Contact Us</NavLink>
               </li>
             </ul>
           </nav>
         </div>
-        <NavLink to="/" className="logo">
+        <NavLink to="/drmridul/" className="logo">
           <i className="icofont-doctor"></i> Dr. Mridul Chandra Das
         </NavLink>
       </div>
