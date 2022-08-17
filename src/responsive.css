@@ -46,8 +46,8 @@
   }
 
   .mobile-nav .logo {
-    width: 75px;
-    top: 10px !important;
+    /* width: 75px; */
+    /* top: 10px !important; */
   }
 
   .mobile-nav.mean-container .mean-nav ul li a.active {
@@ -3446,7 +3446,7 @@
   }
 
   .mobile-nav nav .navbar-nav {
-    height: 300px;
+    height: 250px;
     overflow-y: scroll;
   }
 
