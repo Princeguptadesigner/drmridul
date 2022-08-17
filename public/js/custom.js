@@ -17,18 +17,6 @@ jQuery(function ($) {
     fixedContentPos: false
   });
 
-  $('.home-slider').owlCarousel({
-    items: 1,
-    loop: true,
-    margin: 0,
-    nav: true,
-    dots: true,
-    smartSpeed: 1000,
-    autoplay: false,
-    autoplayTimeout: 9000,
-    autoplayHoverPause: true,
-    navText: ["<i class='icofont-simple-left'></i>", "<i class='icofont-simple-right'></i>"],
-  });
 
 
 });
